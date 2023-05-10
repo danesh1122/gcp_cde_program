@@ -1,0 +1,10 @@
+hi how are you
+ what are you doing fuckrefr bitch junmkdagdf dxfhfgcn xc dgsfx xv
+https://console.cloud.google.com/bigquery?project=fh-bigquery&ws=!1m5!1m4!4m3!1sfh-bigquery!2sflights!3sfaa_aircraft_acftref_201909raw
+multithreading nerchuko
+replace split join in python
+https://cloud.google.com/appengine/docs/legacy/standard/python/googlecloudstorageclient/read-write-to-cloud-storage
+https://dev.to/jakewitcher/uploading-and-downloading-zip-files-in-gcp-cloud-storage-using-python-2l1b
+https://data-flair.training/blogs/spark-installation-standalone-mode/
+https://sparkbyexamples.com/pyspark/spark-submit-python-file/
+https://cloud.google.com/sdk/gcloud/reference/dataproc/jobs/submit/pyspark
