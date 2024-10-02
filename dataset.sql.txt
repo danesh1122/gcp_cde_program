@@ -1,16 +1,1 @@
-bq mk -d viva
-
-
-bq mk -t viva.table0 passenger:string,age:string,fare:string,sex:string
-Table 'danny-350:viva.table0' successfully created.
-
-
-bq load --skip_leading_rows=1 --source_format=CSV viva.table0 C:\Users\USER\OneDrive\Desktop\train.csv
-
-
-SDK>bq mk -t viva.table1 passenger:int64,age:float64,fare:float64,sex:int64
-Table 'danny-350:viva.table1' successfully created.
-
-
-bq query --use_legacy_sql=false insert into viva.table1 select cast(passenger as int64),cast(age as float64),cast(fare as float64),cast(sex as int64) 
-from viva.table0
+danesh
